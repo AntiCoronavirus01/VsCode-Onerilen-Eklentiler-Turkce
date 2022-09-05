@@ -14,6 +14,14 @@
     *  Ikonları günümüz Material design pattern ine uyucak şekilde yeniden tasarlayıp vscode a uyarlar tasarıma göz atmak isterseniz eklenti sayfasına ulaşabilirsiniz
 * Visual Studio Intellicode
     * Bu eklenti Python, TypeScript / JavaScript, React ve Java gibi diller için akıllı kod tamamlama önerileriyle yardımcı olmak için oluşturulmuştur ve yapay zeka temelli bir çalışma sistemi vardır.
+    
+ * Prettier - Code Formatter
+   
+   * Prettier, opsiyonel bir kod biçimlendiricidir. Kodunuzu ayrıştırarak ve maksimum satır uzunluğunu hesaba katan kendi kurallarıyla yeniden yazdırarak, gerektiğinde kodu kaydırarak tutarlı bir stil uygular.
+   
+  * IntelliCode
+  
+      * Visual Studio IntelliCode uzantısı, Visual Studio Code'da Python, TypeScript/JavaScript ve Java geliştiricileri için yapay zeka destekli geliştirme özellikleri sağlar ve makine öğrenimi ile birlikte kod bağlamınızı anlamaya dayalı içgörüler sunar.
 ---
 ## Özel eklentiler
 Bu eklentiler de çok güzel olsalar da herkeze hitap etmezler belirli alanlara özel eklentilerdir bunlar
