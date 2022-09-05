@@ -18,10 +18,8 @@
  * Prettier - Code Formatter
    
    * Prettier, opsiyonel bir kod biçimlendiricidir. Kodunuzu ayrıştırarak ve maksimum satır uzunluğunu hesaba katan kendi kurallarıyla yeniden yazdırarak, gerektiğinde kodu kaydırarak tutarlı bir stil uygular.
-   
-  * IntelliCode
-  
-      * Visual Studio IntelliCode uzantısı, Visual Studio Code'da Python, TypeScript/JavaScript ve Java geliştiricileri için yapay zeka destekli geliştirme özellikleri sağlar ve makine öğrenimi ile birlikte kod bağlamınızı anlamaya dayalı içgörüler sunar.
+ * Quakka.js
+      * Quokka.js, hızlı JavaScript / TypeScript prototipleme için bir geliştirici üretkenlik aracıdır. Çalışma zamanı değerleri, siz yazarken güncellenir ve IDE'nizde kodunuzun yanında görüntülenir.
 ---
 ## Özel eklentiler
 Bu eklentiler de çok güzel olsalar da herkeze hitap etmezler belirli alanlara özel eklentilerdir bunlar
